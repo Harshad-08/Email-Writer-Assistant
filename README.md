@@ -32,7 +32,8 @@ Future Improvements
 
 ⚡ Faster workflow: Reply to emails quickly with AI-generated suggestions.
 
-🛠️ Tech Stack
+
+🛠️ Tech Stack:
 
 Backend: Spring Boot (handles Gemini API requests)
 
@@ -40,11 +41,12 @@ Frontend / Extension: Chrome Extension (manifest.json, content.js)
 
 API: Gemini API for AI-powered email reply generation
 
-⚡ Installation
+
+⚡ Installation:
 
 Clone the repository:
 
-git clone <repository-url>
+git clone https://github.com/Harshad-08/Email-Writer-Assistant
 
 
 Open Chrome and go to chrome://extensions/.
@@ -55,7 +57,8 @@ Click Load unpacked and select the cloned folder.
 
 Open Gmail and refresh the page. The AI Reply button will appear next to the Send button.
 
-📨 Usage
+
+📨 Usage:
 
 Open an email and click Reply.
 
@@ -67,7 +70,8 @@ Edit if needed, then click Send.
 
 To change tone (e.g., friendly), modify the code setting.
 
-🖼️ Screenshots
+
+🖼️ Screenshots:
 
 
 
