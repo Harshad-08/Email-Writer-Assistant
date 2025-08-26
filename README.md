@@ -18,7 +18,9 @@ Screenshots
 
 Future Improvements
 
-✨ Features
+
+
+✨ Features:
 
 🤖 AI-powered replies: Generate smart email responses using Gemini API.
 
