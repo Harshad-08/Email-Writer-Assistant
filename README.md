@@ -24,7 +24,7 @@ Future Improvements
 
 🤖 AI-powered replies: Generate smart email responses using Gemini API.
 
-🎨 Customizable tone: Default is professional; can be changed by modifying backend code.
+🎨 Customizable tone: Default is professional; can be changed by modifying code.
 
 📌 Seamless Gmail integration: “AI Reply” button appears next to the Send button.
 
